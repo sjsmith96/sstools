@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="BouncyCastle" Version="1.8.9" />
+    <PackageReference Include="emgucv" Version="3.1.0.1" />
     <PackageReference Include="pgpcore" Version="5.7.0" />
   </ItemGroup>
 
